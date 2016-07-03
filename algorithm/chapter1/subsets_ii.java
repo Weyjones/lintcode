@@ -1,7 +1,7 @@
 class Solution {
     /**http://www.lintcode.com/en/problem/subsets-ii/
      * @param S: A set of numbers.
-     * @return: A list of lists. All valid subsets.
+     * @return: A list of lists. All valid subsets. 
      */
     public ArrayList<ArrayList<Integer>> subsetsWithDup(ArrayList<Integer> S) {
         ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>(); 

@@ -3,7 +3,7 @@ public class Solution {
      * @param A an integer array sorted in ascending order
      * @param target an integer
      * @return an integer
-     * Runtime: O(logN)
+     * Runtime: O(logN) 
      * Space: O(1)
      */
     public int lastPosition(int[] A, int target) {

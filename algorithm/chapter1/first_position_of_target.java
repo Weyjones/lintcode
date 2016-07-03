@@ -1,7 +1,7 @@
 class Solution {
     /**http://www.lintcode.com/en/problem/first-position-of-target/
      * @param nums: The integer array.
-     * @param target: Target to find.
+     * @param target: Target to find. 
      * @return: The first position of target. Position starts from 0.
      */
     public int binarySearch(int[] nums, int target) {

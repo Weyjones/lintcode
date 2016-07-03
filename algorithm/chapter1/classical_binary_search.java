@@ -1,7 +1,7 @@
 public class Solution {
     /**http://www.lintcode.com/en/problem/classical-binary-search/
      * @param A an integer array sorted in ascending order
-     * @param target an integer
+     * @param target an integer 
      * @return an integer
      */
     public int findPosition(int[] A, int target) {
